@@ -1,0 +1,8 @@
+inputFile:  nowplaying.json
+pollingInterval: 5s
+
+lastfm:
+  key: LAST_FM_API_KEY
+  secret: LAST_FM_API_SECRET
+  username: MYUSERNAME
+  password: MYPASSWORD
